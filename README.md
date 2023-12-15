@@ -1,6 +1,7 @@
 # FAQ-Accordion-Template
 Responsive FAQ Accordion Template 
-This template is FAQ accordion page. Created by using html, css(js css), javascript.
+This template is FAQ accordion page. <br>
+Created by using html, css(scss), javascript.
 
 Pages : 
 <br>
