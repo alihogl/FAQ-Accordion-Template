@@ -1,4 +1,7 @@
-
+if(window.innerWidth <= 760) {
+    const bgImg = document.querySelector('.top-bg img')
+    bgImg.src = 'assets/images/background-pattern-mobile.svg'
+}
 window.addEventListener('resize', e => {
     const bgImg = document.querySelector('.top-bg img')
     if(e.target.innerWidth<=760) {
