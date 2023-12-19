@@ -1,5 +1,5 @@
 # FAQ-Accordion-Template
-- This challange is from https://www.frontendmentor.io/challanges
+- This challange is from https://www.frontendmentor.io/chellanges
 - Responsive FAQ Accordion Template 
 - This template is FAQ accordion page. <br>
 - Created by using html, css(scss), javascript.
